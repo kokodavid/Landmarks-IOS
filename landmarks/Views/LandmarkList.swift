@@ -9,7 +9,7 @@ import SwiftUI
 
 struct LandmarkList: View {
     var body: some View {
-        Text("Hello")
+        Text("Hello World")
     }
 }
 
